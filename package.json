@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-to-tickets",
+  "version": "1.0.0",
+  "description": "Break a plan, spec, or the current conversation into a set of tracer-bullet tickets, each declaring its blocking edges, ",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "to-tickets",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-to-tickets.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-to-tickets#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
